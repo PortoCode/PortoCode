@@ -16,13 +16,13 @@
   <img align="center" alt="Porto-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Porto-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Porto-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="right" alt="Porto-pic" height="150" style="border-radius:50px;" src="https://instagram.fppy4-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/254867882_323120662478633_2756554062236717890_n.jpg?_nc_ht=instagram.fppy4-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=12JlIFvhu1sAX_Bjsa_&edm=AP_V10EBAAAA&ccb=7-4&oh=00_AT9nV2sl-cHQY-PSvbiA3NklVGRuDlYbo5BMr8A4z5RSeg&oe=61D9CCBC&_nc_sid=4f375e">
 </div>
   
 ##
  
 <div> 
   <a href="https://www.instagram.com/rodrigoporto_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/rodrigo-porto-47702922b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/PortoCode/PortoCode/blob/output/github-contribution-grid-snake.svg)
 </div>
