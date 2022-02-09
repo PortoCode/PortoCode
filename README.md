@@ -1,4 +1,4 @@
-## Olá sou Rodrigo Porto, estudante de programação e tecnologia!
+## Hi, I'm Rodrigo Porto, a software developer looking for constant evolution!
 
 <div align="center">
   <a href="https://github.com/PortoCode">
